@@ -1,0 +1,14 @@
+# DVC with Google Cloud Storage support
+dvc[gs]>=3.0.0
+
+# GCP authentication
+google-auth>=2.16.0
+google-cloud-storage>=2.8.0
+
+# Data handling
+pandas>=1.5.0
+numpy>=1.23.0
+
+# Utilities
+PyYAML>=6.0
+tqdm>=4.64.0
