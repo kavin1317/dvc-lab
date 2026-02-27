@@ -1,5 +1,5 @@
 outs:
-- md5: 499fc508bb4654742aead1d48f40fca3
-  size: 262941
+- md5: f0affaaa60c478651b1a2baed7eebaff
+  size: 251871
   hash: md5
   path: chipotle_stores.csv
