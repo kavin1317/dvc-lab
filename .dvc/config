@@ -1,0 +1,7 @@
+[core]
+    remote = lab3
+['remote "lab2"']
+    url = gs://dvc_lab_kavin
+['remote "lab3"']
+    url = gs://dvc_lab_kavin
+    credentialpath = /Users/kavin/Downloads/mlops-labs-488722-c68a4aa68598.json
